@@ -36,5 +36,5 @@ Please note that we have no control of 3rd party websites outside the CryptoSoli
 
 Always be wary when submitting data to any website. Read the site’s data protection and privacy policies fully.
 
-This Privacy Policy was last updated on June 28, 2019
-Legazpi City, Albay, Philippines
+_This Privacy Policy was last updated on June 28, 2019_ 
+_Legazpi City, Albay, Philippines_
